@@ -14,7 +14,8 @@ terdapat deklarasi `CSS`, maka deklarasi manakah yang akan ditampilkan pada brow
 Berikan penjelasan dan contohnya! ( `<p id="paragraf-1" class="text-paragraf">` )
 
 # Jawaban
-2. elemen `<p>` memanggil elemen yang tidak memilik class atau class di dalam class. Karena elemen `<p>` tidak memiliki group class
+1. https://github.com/ibrahim742/Praktikum_lab2.git
+2. Elemen `<p>` memanggil elemen yang tidak memilik class atau class di dalam class. Karena elemen `<p>` tidak memiliki group class
    elemen `#intro h1` memanggil class. Karena elemen `#intro h1` memiliki group class yang di dalamnya bisa beberapa tag tag yang lain
 3. Deklarasi yang akan ditampilkan yaitu adalam deklarasi `CSS` internal. Karena deklarasi `CSS` internal sudah di satu kedalam `tag head` artinya tidak menggunakan memanggil `CSS` enternal.
    contoh: `CSS internal` sudah menyatuh ke dalam tag `html` yang posisi di `tag head`
